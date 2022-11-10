@@ -1,0 +1,19 @@
+{
+  "name": "addions",
+  "version": "0.1.0",
+  "description": "Additional functions for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LemassonLouis/AddIons.git"
+  },
+  "author": "LEMASSON Louis <galou2608@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LemassonLouis/AddIons/issues"
+  },
+  "homepage": "https://github.com/LemassonLouis/AddIons#readme"
+}
