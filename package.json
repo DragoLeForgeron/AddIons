@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LemassonLouis/AddIons/issues"
   },
-  "homepage": "https://github.com/LemassonLouis/AddIons#readme"
+  "homepage": "https://github.com/LemassonLouis/AddIons#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
 }
